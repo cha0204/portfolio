@@ -19,4 +19,4 @@ __강조글자__
 ---
 ### 이미지 삽입하기
 ![카카오 라이언]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sedaily.com%2FNewsView%2F1VE5F3W5WP&psig=AOvVaw2xXF8nYqQJaPoaGbhuO13r&ust=1669340539293000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjL6s3YxfsCFQAAAAAdAAAAABAD)
+(https://newsimg.sedaily.com/2019/01/23/1VE5F3W5WP_18.png)
